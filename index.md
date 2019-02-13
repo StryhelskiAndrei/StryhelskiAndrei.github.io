@@ -1,8 +1,8 @@
 ## Welcome to My GitHub Pages
 
-
-### ABOUT ME
 ![Image](Myphoto.jpg)
+### ABOUT ME
+
 Let me introduce myself. My full name is Andrei Stryhelski. I from Minsk. I finished school in 2009. I graduated from Minsk Innovation University. I was trained as an economist.
 Now I study at the Belarusian State University of Informatics and radioelectronics. My speciality is software information systems.
 I work as a system Administrator. I succeed in my profession.
