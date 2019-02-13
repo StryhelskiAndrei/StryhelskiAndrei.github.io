@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/StryhelskiAndrei/StryhelskiAndrei.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### ABOUT ME
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Let me introduce myself. My full name is Andrei Stryhelski. I from Minsk. I finished school in 2009. I graduated from Minsk Innovation University. I was trained as an economist.
+Now I study at the Belarusian State University of Informatics and radioelectronics. My speciality is software information systems.
+I work as a system Administrator. I succeed in my profession.
 
 ```markdown
 Syntax highlighted code block
