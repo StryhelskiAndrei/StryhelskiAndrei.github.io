@@ -17,3 +17,5 @@ My favorite sport is a chess. I have been playng chess for ten yers. Also I like
 ### My mail: d9d9pe4kin@mail.ru
 ### My codewars account: [Link](https://www.codewars.com/users/StryhelskiAndrei)
 ### My XO game: [Link](https://github.com/StryhelskiAndrei/XO) 
+### My Fibonacci program:[Link](https://github.com/StryhelskiAndrei/Fibonacci) 
+### My simple unit test: [Link](https://github.com/StryhelskiAndrei/Fibonacci) 
